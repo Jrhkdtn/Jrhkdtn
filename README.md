@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Peter%20Parker's%20Github&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장과 발전을 꾸준히 하는 프론트엔드 및 SQL 개발자 입니다. </div> 
+
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
