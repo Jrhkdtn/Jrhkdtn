@@ -1,12 +1,9 @@
-<div align="center">
+<div align="left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Peter%20Parker's%20Github&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
-<div align="center"> 
-
-</div>
-<div align="center">
+<div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center">
+    <div style="margin: 0 auto; text-align: left;" align="left">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -33,9 +30,9 @@
         <br/>
     </div>
 </div>
-<div align="center">
+<div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center">
+    <div align="left">
         <a href="https://www.instagram.com/j_rhkdtn/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_rhkdtn/">
         </a>
@@ -43,8 +40,13 @@
     <br> 
 </div>
 
-<!-- 가운데 정렬된 GitHub 통계 -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jrhkdtn&show_icons=true&theme=radical" />
+<div align="left"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div align="left"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Jrhkdtn&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrhkdtn&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <br>
+        <!-- 백준 연동된 배지를 추가 -->
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ericj1204" />
+    </div> 
 </div>
-
